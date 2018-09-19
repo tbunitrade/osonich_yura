@@ -1,0 +1,30 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "deploy.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "node": "^6.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbunitrade/website.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "osonich&Yufa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbunitrade/website/issues"
+  },
+  "homepage": "https://github.com/tbunitrade/website#readme"
+}
